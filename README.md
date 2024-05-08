@@ -1,0 +1,3 @@
+This reposotory contains code of our MVP, for training of mutliple deep learning models for the purpose of classifying images of leather defects. The .ipynb 'All Models Notebook' contains all the models we tried. 
+From here, you can use the GUI.py file to use the model for defect detection, the GUI will provide an interface where the user can upload an image of their leather defect, and will return its classification along with a suggestion provided by AI on what could possibly have caused the defect and how to solve it. 
+When looking at the files, ensure that the Predictions.py has your deep learning model loaded, and that Api_calls.py has your OpenAI API key. Enjoy. 
